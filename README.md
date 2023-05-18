@@ -3,6 +3,15 @@
 ### Directory structure
 ```
 .RSEND-P1  
+|-- assets  
+|-- |--- Contemporary-Office-2D-Floor-Plan.jpg
+|-- external_models  
+|-- |--- AdjTable
+|   |    |--- meshes  
+|   |    |--- thumbnails  
+|   |    |--- model.config  
+|   |    |--- model.sdf  
+|-- |--- ...
 |-- model  
 |   |--- Building  
 |   |    |--- model.config  
