@@ -5,7 +5,7 @@
 *.slo
 *.lo
 *.o
-*.obj
+# *.obj   # this is filtering Gazebo OBJ files
 
 # Precompiled Headers
 *.gch
